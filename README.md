@@ -12,4 +12,4 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-Graduando em Gestão da Tecnlogia da Informação.
+Graduando em Gestão da Tecnologia da Informação.
