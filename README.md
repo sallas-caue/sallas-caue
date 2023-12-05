@@ -11,20 +11,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-<br>
-</div>
-  <br/>
-  <a href="https://github.com/davidgabriel23">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=**davidgabriel23**&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**davidgabriel23**&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  <br/>
-</div>
 Graduando em Gestão da Tecnologia da Informação.
-
-
-
-
-
 
 
 
@@ -46,8 +33,8 @@ Sou um entusiasta da programação com um forte foco no desenvolvimento front-en
 </div>
   <br/>
   <a href="https://github.com/davidgabriel23">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=davidgabriel23&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgabriel23&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=sallas-caue&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallas-caue&layout=compact&langs_count=7&theme=codeSTACKr"/>
   <br/>
 </div>
 
