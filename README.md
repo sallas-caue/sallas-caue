@@ -3,6 +3,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#caixadeentrada) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575988988813)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sallas-cau%C3%AA-diana-ara%C3%BAjo-4324231b5/)
+
 ![Estatísticas do GitHub de Sallas](https://github-readme-stats.vercel.app/api?username=sallas-caue&show_icons=true&theme=transparent)
 
 ## Tecnologias que utilizo no meu dia
